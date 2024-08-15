@@ -15,9 +15,6 @@ I'm a Software Engineering student at Universidad de las Fuerzas Armadas "ESPE".
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiegoCasignia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DiegoCasignia&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DiegoCasignia&icon=0&color=12)](https://visitcount.itsvg.in)
 
