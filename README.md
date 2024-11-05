@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a Software Engineering student at Universidad de las Fuerzas Armadas "ESPE". I'm a passionate about software development and cybersecurity.
 
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-alejandro-casignia-ruiz-4435512a8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DiegoCasignia) 
 
